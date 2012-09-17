@@ -1,4 +1,6 @@
 Sample Project
 ==============
 
-Some text for testing commit
+Some line for testing commit
+
+One more line
